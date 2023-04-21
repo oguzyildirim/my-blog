@@ -33,6 +33,12 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-theme-blog",
+      options: {
+        preset: "@theme-ui/preset-funk",
+      },
+    },
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [".mdx", ".md"],
