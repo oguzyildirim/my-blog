@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Stuff blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Oğuzhan Yıldırım`,
+      summary: `developer @Trendyol`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `ideas to share`,
+    siteUrl: `https://stuffblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `OguzhanY19`,
     },
   },
   plugins: [
@@ -27,6 +27,12 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: "gatsby-theme-blog",
+      options: {
+        preset: "@theme-ui/preset-funk",
       },
     },
     {
