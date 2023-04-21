@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e875f20a-f82a-4460-8ec3-f56dad2aba4e" name="Changes" comment="" />
+    <list default="true" id="e875f20a-f82a-4460-8ec3-f56dad2aba4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/GraphQlBehindTheScenes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/GraphQlBehindTheScenes.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/ast.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/ast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/graphql-clients.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/graphql-clients.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/graphql.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/graphql.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/graphqlquery.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/graphqlquery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/GraphQlBehindTheScenes/requestResponse.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/GraphQlBehindTheScenes/requestResponse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/WhyThisBlogExists/WhyThisBlogExists.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/content/WhyThisBlogExists/WhyThisBlogExists.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/handlingIO/HandlingIO.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/content/handlingIO/HandlingIO.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/handlingIO/asynchrony.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/handlingIO/asynchrony.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/handlingIO/io.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/handlingIO/io.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/bio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bio.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +50,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
   </component>

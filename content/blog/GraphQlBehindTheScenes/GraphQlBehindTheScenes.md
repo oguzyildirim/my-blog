@@ -6,7 +6,7 @@ description: "How GraphQL works behind the scenes"
 
 ---
 
-![GraphQlLogo](./graphql.png)
+![GraphQlLogo](graphql.png)
 
 >“GraphQL is a query language for your API that shifts the contract between clients and servers that allows the server to say ‘these are the capabilities that I exposed’ and allows the clients to describe their requirements in a way that ultimately empowers product developers to build the products they want to create.” — Dan Schafer, GraphQL Co-Creator
 
@@ -53,7 +53,7 @@ description: "How GraphQL works behind the scenes"
 
  ##### An example of query
 
-![GraphQlQuery](./graphqlquery.png)
+![GraphQlQuery](graphqlquery.png)
 
 - GraphQL has an parser to parse incoming strings, and does Lexical Analysis and Syntactic Analysis to create an **Abstract Syntax Tree**
 
@@ -77,7 +77,7 @@ description: "How GraphQL works behind the scenes"
 
 ## Execution of queries
 
-  ![AST](./ast.png)
+  ![AST](ast.png)
 
   - After being validated, a GraphQL query is executed by a GraphQL server and GraphQL generates a response from a request via execution.
   - Every request consists of a few pieces of information.
@@ -95,7 +95,7 @@ description: "How GraphQL works behind the scenes"
     - SelectionSet has Fields like (movies, stars, title, year, oscars etc.)
     - GraphQL calls SelectionsSet until hitting the response and calls ResolveFieldValue() and CompleteValue() and checks the output type.
 
-![requestResponse](./requestResponse.png)
+![requestResponse](requestResponse.png)
 
 ## Caching graphql
 
