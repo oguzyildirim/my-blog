@@ -30,9 +30,9 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-theme-blog",
+      resolve: `gatsby-theme-blog`,
       options: {
-        preset: "@theme-ui/preset-funk",
+        preset: `@theme-ui/preset-funk`,
       },
     },
     {
