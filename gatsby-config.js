@@ -30,12 +30,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-theme-blog`,
-      options: {
-        preset: `@theme-ui/preset-funk`,
-      },
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
